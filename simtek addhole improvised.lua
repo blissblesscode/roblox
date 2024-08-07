@@ -1,5 +1,6 @@
 local function addHole(result)
 	-- you can place these variables at the top or outside the function scope
+	-- also add a sound in the ReplicatedStorage with a name called "bulletImpact"
 	local RS = game:GetService("ReplicatedStorage")
 	local holet = RS:WaitForChild("Hole")
 	local holeSound = RS:WaitForChild("bulletImpact")
