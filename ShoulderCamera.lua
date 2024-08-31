@@ -1,3 +1,5 @@
+-- this a module script from roblox official pistol. i put this on my github just to achieve it
+
 local ContextActionService = game:GetService("ContextActionService")
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
