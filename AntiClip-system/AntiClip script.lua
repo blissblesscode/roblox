@@ -11,8 +11,7 @@ For example, some players use an infinity yield.
 
 Please help attribute or credit my name for this script, as 
 I'm not gaining any profit from making this script or project. 
-Feel free to use it. I give this script from 
-my heart, not just my mind. ❤️❤️❤️
+Feel free to use it. Thx!
 
 The license is available on my GitHub repository (MIT License).
 ꕤ ──────୨ৎ────✦────୨ৎ────✦────୨ৎ────✦────୨ৎ──── ꕤ
@@ -71,3 +70,4 @@ for _, part in ipairs(partFolder:GetChildren()) do
 		checkTouch(part)
 	end)
 end
+
